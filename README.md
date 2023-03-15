@@ -1,7 +1,7 @@
 # HYPERVIEW Challenge: Seeing Beyond the Visible
 This challange aims to exploit the cutting-edge hyperspectral imaging and machine learning to estimat soil parameters from hyperspectral images. 
 
-![image](https://user-images.githubusercontent.com/61426508/225277900-7aa56ea0-fa5d-408d-bfbf-936bd4aecff4.png)
+                    ![image](https://user-images.githubusercontent.com/61426508/225277900-7aa56ea0-fa5d-408d-bfbf-936bd4aecff4.png)
 
 
 https://ai4eo.eu/portfolio/hyperview-challenge/
